@@ -1,2 +1,3 @@
-build:
-  version: "1.0-default"
+external:
+  api:
+    version: "1.0.0-default"
