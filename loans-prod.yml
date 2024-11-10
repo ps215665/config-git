@@ -1,0 +1,3 @@
+external:
+  api:
+    version: "1.0.1-prod-loans"
